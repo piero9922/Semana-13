@@ -1,0 +1,14 @@
+Preguntas
+
+1.-¿Porque evitar lo callbacks en las llamadas asincronas?
+    -Porque pueden tener dependecia de un valor que depende de 
+    otro valor y de otro valor, y asi llegar a generar un callback hell
+    que es una mala practica de programacion.
+
+2.-¿Que es una Promesa?
+    -Es un objeto que representa una respuesta o un rechazo de una
+    operacion asincrona.
+
+3.-¿Que es un callback hell?
+    - Es cuando se anidan demasiados callbacks y eso ocasiona que sea
+    dificil de entender y leer el codigo.
